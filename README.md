@@ -4,7 +4,7 @@
 🧑‍💻 I founded a software startup **Tewwie** to build tools that make complex financial systems more accessible to everyone!
 - 🛋️ 🚚 An agent for sharing used furniture (cross-listing, dynamically pricing, selling and moving)
 - 💸 🏦 An organizer making it fun and simple to earn bank bonuses
-- 🏷️🛒 A crowd-sourced grocery price tracker (This one's [live in public](openpricedata.com), and free and open source [here on GitHub](https://github.com/codankra/openprices))
+- 🏷️🛒 A crowd-sourced grocery price tracker (This one's [live in public](https://openpricedata.com), and free and open source [here on GitHub](https://github.com/codankra/openprices))
 
 ### 🔍 What You'll Find Here
 
